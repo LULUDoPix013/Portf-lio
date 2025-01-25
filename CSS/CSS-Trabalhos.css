@@ -1,0 +1,27 @@
+h1 {
+    font-family: 'Fredoka One', sans-serif;
+    font-weight: normal;
+    margin-top: 5px;
+}
+
+p {
+    font-size: 18px;
+    max-width: 300px;
+    text-align: justify;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.Silvio-Santos {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 100px;
+}
+
+.Silvio-Santos img {
+    border-radius: 10px;
+    border: 1px solid #000000;
+}

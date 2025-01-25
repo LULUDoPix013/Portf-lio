@@ -103,3 +103,7 @@ main p {
     display: flex;
     align-items: center;
 }
+
+span {
+    color: #ffffff;
+}
